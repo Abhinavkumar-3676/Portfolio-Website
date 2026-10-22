@@ -337,6 +337,23 @@
       "badge": "ASSOCIATE",
       "status": "ACTIVE SPECIALIZATION",
       "color": "#00f2fe"
+    },
+    {
+      "id": "az-400",
+      "index": "06",
+      "code": "AZ-400",
+      "name": "AZ-400: DevOps Engineer Expert",
+      "title": "AZ-400: DevOps Engineer Expert",
+      "level": "EXPERT",
+      "stars": "★★★★★",
+      "rating": 5,
+      "description": "CI/CD automation, Kubernetes container orchestration, infra-as-code, and enterprise reliability.",
+      "track": "DEVOPS EXPERT",
+      "semester": "Sem 7 – 8",
+      "issuer": "Microsoft",
+      "badge": "EXPERT",
+      "status": "VERIFIED CREDENTIAL",
+      "color": "#ff3366"
     }
   ],
   "projects": [

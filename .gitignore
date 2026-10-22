@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Database & Runtime files
+portfolio.db
+*.log
+.DS_Store
+Thumbs.db
+
+# Environment & Temp
+.env
+.env.local
+scratch/

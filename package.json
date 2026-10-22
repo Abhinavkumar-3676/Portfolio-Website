@@ -1,0 +1,13 @@
+{
+  "name": "abhinav-futuristic-portfolio",
+  "version": "1.0.0",
+  "description": "Futuristic Neon Portfolio & Academic Curriculum Showcase with Full Backend and SQLite Database",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["portfolio", "cyberpunk", "futuristic", "neon", "ai", "fullstack", "sqlite"],
+  "author": "Abhinav Kumar",
+  "license": "MIT"
+}

@@ -1,0 +1,391 @@
+{
+  "profile": {
+    "name": "Abhinav Kumar",
+    "handle": "Abhinavkumar-3676",
+    "title": "Aspiring AI & Software Engineer",
+    "degree": "B.Tech Computer Science & Engineering (AI/ML)",
+    "partnership": "Course Progression with Microsoft",
+    "location": "Lucknow, Uttar Pradesh, India",
+    "status": "Available for High-Impact Engineering Roles",
+    "bio": "Specializing in autonomous AI agents, high-concurrency cloud architectures, and next-gen full-stack systems. Bridging cutting-edge deep learning with enterprise production reliability.",
+    "institution": "Chandigarh University Uttar Pradesh",
+    "school": "Sky Public School, Lucknow, Uttar Pradesh",
+    "gradYear": 2030,
+    "links": {
+      "github": "https://github.com/Abhinavkumar-3676",
+      "linkedin": "https://www.linkedin.com/in/abhinav-kumar3676/",
+      "email": "kumarabhinav0090@gmail.com",
+      "phone": "+91 9125607255",
+      "phoneDisplay": "+91 91256 07255"
+    }
+  },
+  "education": [
+    {
+      "institution": "Chandigarh University, Uttar Pradesh",
+      "degree": "B.Tech in Computer Science & Engineering (CSE)",
+      "specialization": "Artificial Intelligence & Machine Learning (AI/ML)",
+      "track": "Course Progression with Microsoft",
+      "timeline": "2026 – 2030 (Expected Graduation)",
+      "status": "Currently Pursuing",
+      "credits": "170 Total Credits • 8 Semesters",
+      "location": "Uttar Pradesh, India",
+      "badge": "HIGHER EDUCATION // ACTIVE",
+      "highlights": [
+        "Specialization in Autonomous AI, Machine Learning & Deep Neural Systems",
+        "Microsoft Academic Track Progression with Cloud & Systems Architecture",
+        "Rigorous 8-Semester Engineering Roadmap with 170 Academic Credits"
+      ]
+    },
+    {
+      "institution": "Sky Public School",
+      "degree": "High School & Senior Secondary Education",
+      "specialization": "Science & Mathematics Stream",
+      "timeline": "Completed",
+      "status": "Graduated",
+      "location": "Lucknow, Uttar Pradesh, India",
+      "badge": "FOUNDATIONAL SCHOOLING",
+      "highlights": [
+        "Core foundational studies in Mathematics, Computer Fundamentals & Physical Sciences",
+        "Strong analytical base and academic discipline in Lucknow, Uttar Pradesh"
+      ]
+    }
+  ],
+  "stats": [
+    { "value": "04", "num": 4, "label": "YEARS TRACK", "desc": "Structured B.Tech Engineering Curriculum" },
+    { "value": "06", "num": 6, "label": "CERTIFICATIONS", "desc": "Microsoft Azure & Cloud Accredited" },
+    { "value": "170", "num": 170, "label": "CREDITS", "desc": "Rigorous Academic & Technical Units" },
+    { "value": "08", "num": 8, "label": "SEMESTERS", "desc": "End-to-End Specialization Progression" }
+  ],
+  "technicalExpertise": [
+    {
+      "id": "core",
+      "index": "01",
+      "category": "CORE FOUNDATIONS",
+      "counter": "01/03",
+      "title": "AI Math & Algorithmic Core",
+      "description": "Rigorous grounding in Linear Algebra, Vector Calculus, and discrete optimization paired with high-efficiency Data Structures & Algorithms in modern C++ and Python.",
+      "skills": [
+        { "name": "Python 3.x & PyTorch Ecosystem", "level": 95, "tag": "PRODUCTION & ML" },
+        { "name": "Data Structures & Algorithms (C / C++)", "level": 92, "tag": "SYSTEMS & LOGIC" },
+        { "name": "Linear Algebra & Mathematical Modeling", "level": 90, "tag": "OPTIMIZATION" }
+      ],
+      "tags": ["Python 3.12", "C++", "PyTorch", "NumPy / SciPy", "Advanced DSA", "Vector Math"],
+      "footer": "Python · C++ · PyTorch · Linear Algebra",
+      "footerCounter": "01 / 03"
+    },
+    {
+      "id": "intelligence",
+      "index": "02",
+      "category": "INTELLIGENCE",
+      "counter": "02/03",
+      "title": "Deep Learning & Agentic Systems",
+      "description": "Architecting autonomous agentic reasoning graphs, deep neural network pipelines, vector embeddings, and retrieval-augmented generation (RAG) architectures.",
+      "skills": [
+        { "name": "LLM Orchestration & Agentic Workflows", "level": 94, "tag": "LANGGRAPH & AGENTS" },
+        { "name": "Neural Networks & Deep Learning", "level": 89, "tag": "COMPUTER VISION / NLP" },
+        { "name": "Vector Databases & RAG Architecture", "level": 91, "tag": "SEMANTIC SEARCH" }
+      ],
+      "tags": ["LangGraph", "Vector DBs (Chroma)", "Deep Learning", "Transformers", "RAG Pipelines", "FastAPI"],
+      "footer": "Agentic AI · Neural Networks · RAG · LangGraph",
+      "footerCounter": "02 / 03"
+    },
+    {
+      "id": "systems",
+      "index": "03",
+      "category": "SYSTEMS",
+      "counter": "03/03",
+      "title": "Cloud Infrastructure & Scalable Systems",
+      "description": "Engineering resilient cloud microservices on Microsoft Azure, high-throughput asynchronous APIs, containerized deployments, and state-driven modern web interfaces.",
+      "skills": [
+        { "name": "Microsoft Azure & Cloud Deployments", "level": 92, "tag": "MICROSOFT TRACK" },
+        { "name": "Asynchronous Backend APIs (FastAPI / Node)", "level": 93, "tag": "HIGH CONCURRENCY" },
+        { "name": "Full-Stack Interfaces (TypeScript / React)", "level": 90, "tag": "PRODUCTION UI" }
+      ],
+      "tags": ["Microsoft Azure", "Docker", "TypeScript", "Next.js / React", "PostgreSQL / SQLite", "CI/CD Pipelines"],
+      "footer": "Azure Cloud · FastAPI · TypeScript · Docker",
+      "footerCounter": "03 / 03"
+    }
+  ],
+  "roadmap": {
+    "header": {
+      "title": "Academic Curriculum & Specialization Roadmap",
+      "subtitle": "Comprehensive 8-Semester B.Tech Computer Science Engineering (AI/ML) course progression with Microsoft.",
+      "badge": "170 TOTAL CREDITS • 8 SEMESTERS"
+    },
+    "semesters": [
+      {
+        "id": "sem1",
+        "number": "SEMESTER 01",
+        "credits": "24 Credits",
+        "creditsNum": 24,
+        "title": "Foundations",
+        "period": "Jul 2026 → Dec 2026",
+        "courses": [
+          "Engineering Mathematics",
+          "Programming for Problem Solving",
+          "Physics for Computational Tech",
+          "Cybersecurity Fundamentals",
+          "Foundation & Application of AI",
+          "Design Thinking",
+          "English Communication I"
+        ],
+        "accent": "#ff1a40"
+      },
+      {
+        "id": "sem2",
+        "number": "SEMESTER 02",
+        "credits": "25 Credits",
+        "creditsNum": 25,
+        "title": "Python & DSA",
+        "period": "Jan 2027 → Jun 2027",
+        "courses": [
+          "Linear Algebra & Vector Calculus",
+          "Programming In Python",
+          "Computer Ecosystem",
+          "Data Structures & Algorithms I",
+          "Network Security",
+          "English Communication II",
+          "Universal Human Values"
+        ],
+        "accent": "#b026ff"
+      },
+      {
+        "id": "sem3",
+        "number": "SEMESTER 03",
+        "credits": "23 Credits",
+        "creditsNum": 23,
+        "title": "Systems & Networks",
+        "period": "Jul 2027 → Dec 2027",
+        "courses": [
+          "System Design",
+          "Computer Organization & Arch",
+          "Database Management System",
+          "Computer Networks",
+          "Operating System",
+          "Software Engineering",
+          "Cloud Security"
+        ],
+        "accent": "#ff1a40"
+      },
+      {
+        "id": "sem4",
+        "number": "SEMESTER 04",
+        "credits": "23 Credits",
+        "creditsNum": 23,
+        "title": "Full Stack & OOP",
+        "period": "Jan 2028 → Jun 2028",
+        "courses": [
+          "Object-Oriented Programming",
+          "Algorithms & Data Structures II",
+          "Full Stack Development",
+          "Digital Image Processing",
+          "Soft Skills & Aptitude",
+          "Project Based Learning IV"
+        ],
+        "accent": "#b026ff"
+      },
+      {
+        "id": "sem5",
+        "number": "SEMESTER 05",
+        "credits": "24 Credits",
+        "creditsNum": 24,
+        "title": "ML & GenAI Intro",
+        "period": "Jul 2028 → Dec 2028",
+        "courses": [
+          "Machine Learning Fundamentals",
+          "Introduction to Generative AI",
+          "Natural Language Processing",
+          "AI for Cyber Threat Intelligence",
+          "Compiler Design",
+          "Project Based Learning V"
+        ],
+        "accent": "#ff1a40"
+      },
+      {
+        "id": "sem6",
+        "number": "SEMESTER 06",
+        "credits": "22 Credits",
+        "creditsNum": 22,
+        "title": "Deep Learning & GANs",
+        "period": "Jan 2029 → Jun 2029",
+        "courses": [
+          "Deep Learning",
+          "Generative Adversarial Networks",
+          "Reinforcement Learning",
+          "AI in Healthcare Security",
+          "Distributed System Architecture",
+          "Project Based Learning VI"
+        ],
+        "accent": "#b026ff"
+      },
+      {
+        "id": "sem7",
+        "number": "SEMESTER 07",
+        "credits": "16 Credits",
+        "creditsNum": 16,
+        "title": "Advanced AI & Training",
+        "period": "Jul 2029 → Dec 2029",
+        "courses": [
+          "Advanced Topics in Generative AI",
+          "Ethical AI & Responsible Computing",
+          "Elective Specialization I",
+          "Industrial Internship & Training",
+          "Project Based Learning VII"
+        ],
+        "accent": "#ff1a40"
+      },
+      {
+        "id": "sem8",
+        "number": "SEMESTER 08",
+        "credits": "13 Credits",
+        "creditsNum": 13,
+        "title": "Industry & Graduation",
+        "period": "Jan 2030 → Jun 2030",
+        "courses": [
+          "Advanced Elective II",
+          "Seminar on Trends in GenAI",
+          "Industry Collaboration Capstone",
+          "Project Based Learning VIII",
+          "Total: 170 Credits Completed"
+        ],
+        "accent": "#b026ff"
+      }
+    ]
+  },
+  "certifications": [
+    {
+      "id": "az-900",
+      "code": "AZ-900",
+      "title": "Microsoft Certified: Azure Fundamentals",
+      "issuer": "Microsoft",
+      "badge": "AZURE FOUNDATIONS",
+      "status": "VERIFIED CREDENTIAL",
+      "year": "2024",
+      "skills": ["Cloud Concepts", "Azure Architecture", "Azure Security & Network Management"],
+      "color": "#b026ff"
+    },
+    {
+      "id": "ai-900",
+      "code": "AI-900",
+      "title": "Microsoft Certified: Azure AI Fundamentals",
+      "issuer": "Microsoft",
+      "badge": "AZURE AI SPECIALIST",
+      "status": "VERIFIED CREDENTIAL",
+      "year": "2024",
+      "skills": ["Machine Learning on Azure", "Computer Vision Workloads", "Conversational AI & NLP"],
+      "color": "#ff1a40"
+    },
+    {
+      "id": "dp-100",
+      "code": "DP-100",
+      "title": "Microsoft Certified: Azure Data Scientist Associate",
+      "issuer": "Microsoft",
+      "badge": "DATA SCIENTIST ASSOCIATE",
+      "status": "VERIFIED CREDENTIAL",
+      "year": "2025",
+      "skills": ["MLOps & Experiment Tracking", "Azure Machine Learning Studio", "Model Deployment Pipelines"],
+      "color": "#b026ff"
+    },
+    {
+      "id": "az-204",
+      "code": "AZ-204",
+      "title": "Developing Solutions for Microsoft Azure",
+      "issuer": "Microsoft",
+      "badge": "AZURE DEVELOPER ASSOCIATE",
+      "status": "ACTIVE SPECIALIZATION",
+      "year": "2025",
+      "skills": ["Azure App Service & Functions", "Cosmos DB Integration", "Event-Driven Microservices"],
+      "color": "#ff1a40"
+    },
+    {
+      "id": "gh-actions",
+      "code": "GH-FND",
+      "title": "GitHub Foundations & CI/CD Pipelines",
+      "issuer": "GitHub",
+      "badge": "DEVOPS EXCELLENCE",
+      "status": "VERIFIED CREDENTIAL",
+      "year": "2025",
+      "skills": ["Automated Testing Workflows", "Security Scanning", "Release Orchestration"],
+      "color": "#b026ff"
+    },
+    {
+      "id": "aws-saa",
+      "code": "AWS-SAA",
+      "title": "AWS Certified Solutions Architect (Associate Track)",
+      "issuer": "Amazon Web Services",
+      "badge": "MULTI-CLOUD ARCHITECT",
+      "status": "ACTIVE SPECIALIZATION",
+      "year": "2025",
+      "skills": ["High-Availability Systems", "VPC & Serverless Architecture", "Cost Optimization"],
+      "color": "#ff1a40"
+    }
+  ],
+  "projects": [
+    {
+      "id": "neurosync-ai",
+      "title": "NeuroSync AI",
+      "codename": "AGENT-SWARM-01",
+      "tagline": "Autonomous Multi-Agent Research Swarm",
+      "description": "Distributed graph of autonomous LLM agents that self-decompose research topics, execute sandboxed code simulations, synthesize vector clusters, and generate cited intelligence reports.",
+      "status": "COMING SOON",
+      "badge": "COMING SOON // Q3 2026",
+      "phase": "Private Alpha In Progress",
+      "progress": 75,
+      "eta": "Q3 2026",
+      "tags": ["LangGraph", "PyTorch", "ChromaDB", "FastAPI", "Docker"],
+      "color": "#b026ff"
+    },
+    {
+      "id": "kubepulse-cloud",
+      "title": "KubePulse Cloud",
+      "codename": "MESH-OBSERVER-02",
+      "tagline": "Distributed eBPF Telemetry Mesh",
+      "description": "Kernel-level telemetry observer engineered with eBPF and Go on Microsoft Azure. Tracks socket latency across microservices and triggers automated self-healing container workflows.",
+      "status": "COMING SOON",
+      "badge": "COMING SOON // Q4 2026",
+      "phase": "Architecture & Benchmarking",
+      "progress": 60,
+      "eta": "Q4 2026",
+      "tags": ["Microsoft Azure", "Go 1.23", "eBPF", "Redis Cluster", "Kafka"],
+      "color": "#00f2fe"
+    },
+    {
+      "id": "omniflow-matrix",
+      "title": "OmniFlow Matrix",
+      "codename": "COLLAB-ENGINE-03",
+      "tagline": "CRDT Collaborative Real-Time Workspace",
+      "description": "Zero-latency distributed canvas and coding environment built on state-based Conflict-Free Replicated Data Types (CRDTs) and peer-to-peer WebRTC mesh with end-to-end cryptographic integrity.",
+      "status": "COMING SOON",
+      "badge": "COMING SOON // 2027",
+      "phase": "Protocol Specification & Staging",
+      "progress": 40,
+      "eta": "2027",
+      "tags": ["Next.js 15", "TypeScript", "CRDTs / Yjs", "PostgreSQL", "WebRTC"],
+      "color": "#ff1a4b"
+    }
+  ],
+  "projectsStatus": {
+    "status": "IN_ACTIVE_DEVELOPMENT",
+    "badge": "COMPILING & BUILDING",
+    "headline": "Engineering Laboratory // Active Development",
+    "description": "Production architectures, AI pipelines, and cloud microservices are currently being built and refined. Live code, daily commits, and open-source experiments are continuously published directly to GitHub.",
+    "githubUrl": "https://github.com/Abhinavkumar-3676",
+    "tracks": [
+      {
+        "title": "Autonomous AI & Agentic Systems",
+        "tech": "Python • LangGraph • Vector DBs • LLM Orchestration",
+        "status": "In Progress // Labs"
+      },
+      {
+        "title": "Cloud-Native & Distributed Microservices",
+        "tech": "Azure • Go • TypeScript • Docker • Redis",
+        "status": "Architecture Phase"
+      },
+      {
+        "title": "Full-Stack Enterprise Applications",
+        "tech": "React • Next.js • FastAPI • PostgreSQL",
+        "status": "Active Sprints"
+      }
+    ]
+  }
+}
